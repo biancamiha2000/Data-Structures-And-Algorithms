@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(636,2): warning C4091: 'typedef ': ignored on left of 'Stiva' when no variable is declared
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(680,2): warning C4091: 'typedef ': ignored on left of 'Coada' when no variable is declared
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(809,22): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(811,23): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(826,22): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(893,22): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(941,21): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(942,22): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(972,21): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(983,21): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(994,21): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(995,22): warning C4018: '<': signed/unsigned mismatch
+D:\Data Structure And Algorithms\Data Structure And Algorithms\Source.cpp(1436,14): warning C4101: 'cap_stiva': unreferenced local variable
+  Data Structure And Algorithms.vcxproj -> D:\Data Structure And Algorithms\Debug\Data Structure And Algorithms.exe
